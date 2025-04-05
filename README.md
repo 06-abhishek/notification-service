@@ -1,4 +1,4 @@
-# 📢 Notification Service (Kafka + Node.js Microservices Architecture)
+# 📢 Notification Service (Kafka + Node.js Microservices)
 
 This is a **Kafka-based Notification Service** built with Node.js and Express. It listens for `order events` from a Kafka topic and handles notifications accordingly. This is a part of a microservices-based architecture.
 
